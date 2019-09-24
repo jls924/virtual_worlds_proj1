@@ -5,7 +5,7 @@ gameport.appendChild(renderer.view);
 
 var stage = new PIXI.Container();
 
-var texture = PIXI.Texture.fromImage("2x.png");
+var texture = PIXI.Texture.fromImage("jet1.png");
 
 var sprite = new PIXI.Sprite(texture);
 
